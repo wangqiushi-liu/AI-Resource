@@ -19,7 +19,7 @@ import sys
 from typing import Optional
 
 # ============ MiniMax API 配置 ============
-MINIMAX_API_KEY = os.environ.get("MINIMAX_API_KEY", "sk-cp-fxw29yUqT63AKAYFxI_DlaG1nDsofWjZ7AeukXewtZvuJCfLxuY1lKV-Jgo3V_WtNakvcss95osWPdxSMjbjkoCWRHquu6chHKaakZ90Udprcsta15bvSE4")
+MINIMAX_API_KEY = os.environ.get("MINIMAX_API_KEY")
 MINIMAX_BASE_URL = os.environ.get("MINIMAX_BASE_URL", "https://api.minimax.chat")
 MINIMAX_MODEL = "MiniMax-M2.7"
 
