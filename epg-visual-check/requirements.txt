@@ -1,0 +1,4 @@
+# EPG Visual Check dependencies
+requests>=2.25.0
+urllib3>=1.26.0
+Pillow>=10.0.0
