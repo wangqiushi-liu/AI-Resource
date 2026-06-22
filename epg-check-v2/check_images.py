@@ -15,7 +15,7 @@ MAX_WORKERS = 5  # 并发数，可调整
 
 # ==================== Kimi API 配置 ====================
 # TODO: 请在此处填入你的 Kimi API Key
-KIMI_API_KEY = "sk-be4a4d9fc4534f8ebf8b1241caaecf08"
+KIMI_API_KEY = ""
 
 extra_body = {
     "chat_template_kwargs": {"enable_thinking": True}
